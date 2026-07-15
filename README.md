@@ -55,5 +55,5 @@ Building my way into **agentic AI**:
 ## 📫 Contact
 
 - 💼 LinkedIn: [Muhammad Sabbir Hossain](https://www.linkedin.com/in/muhammad-sabbir-hossain-83aa64250/)
-- ✉️ Email: [asakashthereble@gmail.com](mailto:muhammadsabbirhossain32@gmail.com)
+- ✉️ Email: [muhammadsabbirhossain32@gmail.com](mailto:muhammadsabbirhossain32@gmail.com)
 - 🕶️ See my work live: [eyeglambd.com](https://eyeglambd.com)
