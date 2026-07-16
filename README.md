@@ -22,7 +22,7 @@ A production eyewear e-commerce store I designed, built, and operate end-to-end 
 - Custom admin panel built on Next.js API routes + PostgreSQL (Supabase)
 - Optimized image delivery via ImageKit CDN, deployed on Netlify behind Cloudflare
 
-📂 Full case study: [`eyeglam-case-study`](https://github.com/Sabbirhosn/eyeglam-case-study) *(coming soon)*
+📂 Full case study: [`eyeglam-case-study`](https://github.com/Sabbirhosn/eyeglam-case-study)
 
 ---
 
